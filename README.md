@@ -6,9 +6,6 @@
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-kinuthia-488192187/)](https://www.linkedin.com/in/eric-kinuthia-488192187/)
-[![Gmail Badge](https://img.shields.io/badge/-mungaikinus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mungaikinus@gmail.com)](mailto:mungaikinus@gmail.com)
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -53,3 +50,4 @@
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-kinuthia-488192187/)](https://www.linkedin.com/in/eric-kinuthia-488192187/)
+[![Gmail Badge](https://img.shields.io/badge/-mungaikinus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mungaikinus@gmail.com)](mailto:mungaikinus@gmail.com)
