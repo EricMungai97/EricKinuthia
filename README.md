@@ -34,8 +34,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalexscully&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EricMungai97&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricMungai97&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EricMungai97.EricKinuthia)
 
