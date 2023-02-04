@@ -46,4 +46,4 @@ After changing the bio, let’s change the links and labels of the social icon b
 
 Here is a sample social link badge:
 
-[![Linkedin Badge](https://img.shields.io/badge/-eric kinuthia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-kinuthia/)](https://www.linkedin.com/in/eric-kinuthia/)
+[![Linkedin Badge](https://img.shields.io/badge/-domaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domaine-scully/)](https://www.linkedin.com/in/domaine-scully/)
