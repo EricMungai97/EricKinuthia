@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Eric
 
-I am Eric Mungai Kinuthia, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+<hr>
+
+### Full Stack Software Developer located in Seattle, WA.
+
+<hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-kinuthia-488192187/)](https://www.linkedin.com/in/eric-kinuthia-488192187/)
 [![Gmail Badge](https://img.shields.io/badge/-mungaikinus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mungaikinus@gmail.com)](mailto:mungaikinus@gmail.com)
